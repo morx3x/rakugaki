@@ -1,3 +1,4 @@
-# README
 
-morx3x の個人的なメモです．
+### Hello world ( ´∀｀)... 
+
+### [Come here.](https://github.com/morx3x/sushi/discussions)
